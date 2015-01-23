@@ -6,7 +6,6 @@ class app {
     include app::mongodb
     include app::db-demouser
     include app::php
-    include app::pear
     include app::demogroup
     include app::demouser
     include app::httpd
